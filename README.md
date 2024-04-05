@@ -2,7 +2,7 @@
 
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;"Not only are we in the universe, the universe is in us". One of many beautiful, philosophical, and reflective quotes from my astrophysicist friend Neil deGrasse Tyson. In this sentence, Neil explains how, even though your body is young,
-the atoms that compose your body are billions of years old, forged in the heart of the stars. Discoveries like that make me fall in love with science, a science that makes us reflect
+the atoms that compose your body are billions of years old, forged in the heart of the stars. Discoveries like that make me fell in love with science, a science that makes us reflect
 on who we are and what life is.</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Knowing I wanted to transform this passion into a way of living, i studied computer science, which i felt particularly close to since childhood. The algorithms, the processing,
