@@ -1,4 +1,6 @@
-<div>
+<h3>About Me</h3>
+
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;"Not only are we in the universe, the universe is in us". One of many beautiful, philosophical, and reflective quotes from my friend astrophysicist Neil deGrasse Tyson. In this sentence, Neil explains how, even though your body is young,
 the atoms that compose your body are billions of years old, forged in the heart of the stars. Discoveries like that make me fall in love with science, a science that makes us reflect
 on who we are and what life is.</p>
@@ -9,7 +11,6 @@ we design a circuit to process and manipulate data using logic gates and electro
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Last but not least, welcome to my profile 😺. Where you can find my projects on computer organization focused on improving teaching, learning, and expanding science, among other nice things.
 Make yourself at home.</p>
-</div>
 
 <h3>My Languages</h3>
 
