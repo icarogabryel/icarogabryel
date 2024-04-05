@@ -1,4 +1,4 @@
-# "Not only are we in the universe,\\the universe is in us."
+# "Not only are we in the universe,//the universe is in us."
 - Neil deGrasse Tyson
 
   One of many beautiful, philosophical, and reflective quotes from my friend astrophysicist Neil deGrasse Tyson. In this sentence, Neil explains how, even though your body is young,
