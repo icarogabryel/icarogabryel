@@ -1,6 +1,7 @@
 <h3 style="font-size: 24px; font-weight: bold;">"Not only are we in the universe, the universe is in us."</h3>
 <p style="font-weight: bold;">- Neil deGrasse Tyson</p>
 
+<div>
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;One of many beautiful, philosophical, and reflective quotes from my friend astrophysicist Neil deGrasse Tyson. In this sentence, Neil explains how, even though your body is young,
 the atoms that compose your body are billions of years old, forged in the heart of the stars. Discoveries like that make me fall in love with science, a science that makes us reflect
 on who we are and what life is.<br>
@@ -9,6 +10,7 @@ and manipulation of data to help science expand. With these things i said i have
 we design a circuit to process and manipulate data using logic gates and electronic signs is, to me, an interesting and fun puzzle that, sometimes, makes me lose sanity in the early mornings 🙃.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Last but not least, welcome to my profile 😺. Where you can find my projects on computer organization focused on improving teaching, learning, and expanding science, among other nice things.
 Make yourself at home.</p>
+</div>
 
 <h3>My Languages</h3>
 
