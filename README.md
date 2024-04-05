@@ -12,7 +12,7 @@ we design a circuit to process and manipulate data using logic gates and electro
   Last but not least, welcome to my profile 😺. Where you can find my projects on computer organization focused on improving teaching, learning, and expanding science, among other nice things.
 Make yourself at home.
 
-## My languages
+### My languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
