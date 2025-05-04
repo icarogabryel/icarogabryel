@@ -1,24 +1,33 @@
-# Projects in development
-
-- Flooat: A friendly HDL and HLS;
-- MOOn-X: An enchanced version of the MOON-IV architecture.
-
-# Future Projects
-
-- VS Code extension for highlighting EBNF files;
-- VS Code extension for EBNF language server;
-- Pastel & Cana: a VS Code color theme; 
-- VS Code extension for highlighting flooat files;
-- VS Code extension for flooat language server;
-- OwO: An universial user interface language with four principals: Forms, Grid, Time & Actions;
-- A programming language for gamming programation;
-- Otter: a minimal C like programming language.
-
-<h3>My Languages</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="45" width="60" src="static/python.svg">
-  <img align="center" alt="C" height="45" width="60" src="static/c.svg">
-  <img align="center" alt="Java" height="45" width="60" src="static/java.svg">
-  <img align="center" alt="VHDL" height="45" width="60" src="static/vhdl.svg">
+<div align="center">
+  <h1>Welcome to my GitHub 👽</h1>
 </div>
+
+<!-- ## My Projects -->
+
+## My Projects in development
+
+|||
+|-|-|
+| ![Static Badge](https://img.shields.io/badge/%F0%9F%9B%B8-Flote-green?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fflote) | A friendly HDL and Python framework for hardware design and simulation. |
+| ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%8C-COSMOS--1-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fcosmos-1) | A Powerful 16-bit, RISC, multicore, pipelined, processor architecture. |
+| ![Static Badge](https://img.shields.io/badge/%F0%9F%A6%A6-Otter-cyan?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fotter) | A minimal C like programming language. |
+
+## My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/css" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="assets/vhdl_icon.svg" width="40"/>  <!-- Local -->
+
+## My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=icarogabryel&show_icons=true&theme=radical" alt="My GitHub Stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogabryel&layout=compact&theme=radical" alt="My GitHub Stats" width="300"/>
