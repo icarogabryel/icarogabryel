@@ -29,5 +29,5 @@
 
 ## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=icarogabryel&show_icons=true&theme=radical" alt="My GitHub Stats" width="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogabryel&layout=compact&theme=radical" alt="My GitHub Stats" width="300"/>
+![icarogabryel's Stats](https://github-readme-stats.vercel.app/api?username=icarogabryel&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![icarogabryel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icarogabryel&theme=dark&show_icons=true&hide_border=true&layout=compact)
