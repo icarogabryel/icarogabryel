@@ -6,11 +6,34 @@
 
 ## My Projects in development
 
-|||
-|-|-|
-| ![Static Badge](https://img.shields.io/badge/%F0%9F%9B%B8-Flote-green?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fflote) | A friendly HDL and Python framework for hardware design and simulation. |
-| ![Static Badge](https://img.shields.io/badge/%F0%9F%8C%8C-COSMOS--1-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fcosmos-1) | A Powerful 16-bit, RISC, multicore, pipelined, processor architecture. |
-| ![Static Badge](https://img.shields.io/badge/%F0%9F%A6%A6-Otter-cyan?style=flat&link=https%3A%2F%2Fgithub.com%2Ficarogabryel%2Fotter) | A minimal C like programming language. |
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/icarogabryel/flote">
+          <img src="https://img.shields.io/badge/%F0%9F%9B%B8-Flote-green?style=flat" alt="Flote Badge">
+        </a>
+      </td>
+      <td>A friendly HDL and Python framework for hardware design and simulation.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/icarogabryel/cosmos-1">
+          <img src="https://img.shields.io/badge/%F0%9F%8C%8C-COSMOS--1-blue?style=flat" alt="COSMOS-1 Badge">
+        </a>
+      </td>
+      <td>A Powerful 16-bit, RISC, multicore, pipelined, processor architecture.</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/icarogabryel/otter">
+          <img src="https://img.shields.io/badge/%F0%9F%A6%A6-Otter-cyan?style=flat" alt="Otter Badge">
+        </a>
+      </td>
+      <td>A minimal C like programming language.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## My Skills
 
