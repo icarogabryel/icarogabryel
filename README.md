@@ -52,11 +52,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
   <img src="assets/vhdl_icon.svg" width="40"/>  <!-- Local -->
-<div/>
+</div>
 
 ## My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icarogabryel&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogabryel&theme=dark&show_icons=true&hide_border=true&layout=compact">
-<div/>
+</div>
