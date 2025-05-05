@@ -4,7 +4,7 @@
 
 <!-- ## My Projects -->
 
-## My Projects in development
+## Projects in Development
 
 <table>
   <tbody>
