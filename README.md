@@ -4,7 +4,7 @@
 
 <!-- ## My Projects -->
 
-## Projects in Development
+## My Projects
 
 <div align="center">
   <table>
