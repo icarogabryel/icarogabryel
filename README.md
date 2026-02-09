@@ -1,10 +1,8 @@
 <div align="center">
-  <h1>Welcome to my GitHub 👽</h1>
+  <h2>Welcome to my GitHub 👽</h2>
 </div>
 
-<!-- ## My Projects -->
-
-## My Projects
+### My Projects
 
 <div align="center">
   <table>
@@ -38,7 +36,7 @@
   </table>
 </div>
 
-## My Skills
+### My Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
